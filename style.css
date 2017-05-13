@@ -1,2 +1,13 @@
-* {  box-sizing: border-box;}.content{  max-width: 400px;  margin-left: auto;  margin-right: auto;
-}h3 {  text-align: center;}
+* {
+  box-sizing: border-box;
+}
+.content{
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h3 {
+  text-align: center;
+}
+
